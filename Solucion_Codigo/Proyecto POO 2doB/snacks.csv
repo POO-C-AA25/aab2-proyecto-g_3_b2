@@ -1,0 +1,13 @@
+nombre,precio,tipo
+Popcorn,2.50,comida
+Soda,1.50,bebida
+Nachos,3.00,comida
+Chocolate,2.00,comida
+Hotdog,3.50,comida
+Galletas,1.20,comida
+Pizza,4.00,comida
+Helado,2.80,comida
+Agua,1.00,bebida
+Combo #1 (Popcorn + Soda),5.50,combo
+Combo #2 (Nachos + Chocolate),6.00,combo
+Combo #3 (Hotdog + Popcorn + Soda),6.50,combo

@@ -1,0 +1,7 @@
+1: Película: The Matrix | Horario: 17:15 | Sala: Sala 3 | Boletos: 2 | Snacks: Soda ($1.5), Soda ($1.5), Soda ($1.5) | Total: $15.035
+1: Película: Spider-Man | Horario: 19:00 | Sala: Sala 10 | Boletos: 2 | Snacks: Combo #1 ($5.5) | Total: $17.945
+1: Película: Tenet | Horario: 21:00 | Sala: Sala 5 | Boletos: 2 | Snacks: Pizza ($4.0), Combo #1 ($5.5) | Total: $23.275
+1: Película: Avatar | Horario: 19:45 | Sala: Sala 4 | Boletos: 4 | Snacks: Combo #3 ($6.5) | Total: $27.075
+1: Película: Jurassic Park | Horario: 17:45 | Sala: Sala 8 | Boletos: 4 | Snacks: Soda ($1.5), Hotdog ($3.5) | Total: $34.3
+1: Película: Jurassic Park | Horario: 17:45 | Sala: Sala 8 | Boletos: 4 | Snacks: Combo #3 (Hotdog + Popcorn + Soda) ($6.5) | Total: $35.77
+1: Película: Inception | Horario: 18:00 | Sala: Sala 1 | Boletos: 1 | Snacks: Popcorn ($2.5) | Total: $7.84
